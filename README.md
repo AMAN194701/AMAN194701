@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Aman 👋
 
-<!--
-**AMAN194701/AMAN194701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc IT(H) Student | Aspiring AI Engineer | Building Real-World Projects
+💻 Learning Python, AI & ML, Cloud Development  
 
-Here are some ideas to get you started:
+## 🚀 What I'm doing
+- Building AI & Web projects  
+- Practicing DSA   
+- Exploring Open Source  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Python, NumPy, Pandas, Matplolib
+- HTML, CSS, JavaScript  
+- Git & GitHub  
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/aman-a-kushwaha/
+- Email : amankushwaha61709@gamil.com
+- Portfolio : https://aman194701.github.io/ai-portfolio/
