@@ -15,5 +15,5 @@
 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/aman-a-kushwaha/
-- Email : amankushwaha61709@gamil.com
+- Email : amankushwaha61709@gmail.com
 - Portfolio : https://aman194701.github.io/ai-portfolio/
