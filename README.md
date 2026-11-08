@@ -1,22 +1,23 @@
 # Hi, I'm Aman 👋
 
 🎓 BSc IT (Hons) Student | Aspiring AI Engineer | Building Real-World Projects
+
 🏆 GSSoC 2026 Top 50 Winner, Rank 17 out of 55,000+ applicants
+
 💻 Learning Python, AI/ML and Cloud Development
 
 ## 🚀 What I'm Doing
 - Building AI and web projects
-- Practicing DSA : https://leetcode.com/u/its_aman_03/
+- Practicing DSA: [LeetCode](https://leetcode.com/u/its_aman_03/)
 - Contributing to open source (GSSoC 2026)
 - Going deeper into Python and AI/ML
 
 ## 🏆 Highlights
 - **GSSoC 2026 Top 50 Winner (Rank 17)** out of 55,000+ applications. [View my merged PRs](https://github.com/pulls?q=is%3Apr+author%3AAMAN194701+is%3Amerged)
-- **[Matplotlib docs PR](https://github.com/matplotlib/matplotlib/pull/31308)**: added a custom thumbnail for the multipage PDF gallery example
+- **Merged docs PR in [Matplotlib](https://github.com/matplotlib/matplotlib/pull/31308)** (v3.11.0): added a custom thumbnail for the multipage PDF gallery example
 - **1st Place**, Logic-Based Coding Competition, Parul University (March 2026)
 - **AWS Machine Learning** assessment, Gold (93%), NASSCOM FutureSkills Prime (2026)
 - **AWS Academy Data Engineering** training badge, 40 hours 
-
 ## 🛠 Tech Stack
 - **Languages:** Python, JavaScript, HTML, CSS
 - **ML and Data:** scikit-learn, Fairlearn, NumPy, Pandas, Matplotlib
